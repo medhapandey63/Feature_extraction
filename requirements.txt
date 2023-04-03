@@ -1,0 +1,4 @@
+Numpy
+	Pandas
+	Multiprocessing
+	Biopython
